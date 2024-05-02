@@ -46,7 +46,7 @@
 
 
 ##  시스템 구조도
-![image](https://github.com/offclothes/backend/assets/70208747/5d7f1793-f6b7-4137-b51e-6d9464565e3f)
+![Uploading image.png…]()
 
 
 
