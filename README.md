@@ -46,7 +46,7 @@
 
 
 ##  시스템 구조도
-![Uploading image.png…]()
+![백엔드_ㅐㅊ](https://github.com/jacomyou1026/finalProject/assets/70208747/117ca13e-70ba-4479-ab81-fe6f5d862bbc)
 
 
 
