@@ -51,7 +51,7 @@
 
 
 ## erd설계
-![image](https://github.com/offclothes/finalProject/assets/70208747/6cf48be6-9c5c-4de7-8e4f-ba5ff43a069b)
+![277479549-2d4bfae7-2cec-4a13-a4d7-351c1c2d0e4e](https://github.com/jacomyou1026/finalProject/assets/70208747/08c2450e-1dae-4674-ba80-d52c349aeb24)
 
 ## 주요 페이지
 |메인페이지|로그인|로그아웃|회원가입|
