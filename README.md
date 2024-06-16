@@ -51,7 +51,7 @@
 
 
 ## erd설계
-![277479549-2d4bfae7-2cec-4a13-a4d7-351c1c2d0e4e](https://github.com/jacomyou1026/finalProject/assets/70208747/08c2450e-1dae-4674-ba80-d52c349aeb24)
+![image](https://github.com/jacomyou1026/finalProject/assets/70208747/32aadcc6-9250-4895-915a-d671a3ae5bef)
 
 ## 주요 페이지
 |메인페이지|로그인|로그아웃|회원가입|
